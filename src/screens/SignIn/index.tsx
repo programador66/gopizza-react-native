@@ -21,7 +21,7 @@ const SignIn: React.FC = () => {
         <Content>
           <Brand source={brandImg} />
           
-          <Title>Login</Title>
+          <Title>Login teste git</Title>
           <Input 
             placeholder="E-mail" 
             type="secondary"
